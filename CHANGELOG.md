@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/felix-kaestner/eslint-config/compare/v1.0.2...v1.0.3) (2022-03-15)
+
+
+### Bug Fixes
+
+* **deps:** bump eslint-config-prettier from 8.4.0 to 8.5.0 ([90508e0](https://github.com/felix-kaestner/eslint-config/commit/90508e057b9e74f63b8742c3d2a8f8d0049a34a5))
+
 ## [1.0.2](https://github.com/felix-kaestner/eslint-config/compare/v1.0.1...v1.0.2) (2022-03-01)
 
 
