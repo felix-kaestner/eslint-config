@@ -36,3 +36,7 @@ Add this into your `.eslintrc.json` (or other `eslint` config file):
 ## Links
 
 - [Configuring ESLint](https://eslint.org/docs/user-guide/configuring/)
+
+---
+
+Released under the [MIT License](LICENSE).
