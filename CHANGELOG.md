@@ -1,3 +1,14 @@
+## [2.0.1](https://github.com/felix-kaestner/eslint-config/compare/v2.0.0...v2.0.1) (2023-03-24)
+
+
+### Bug Fixes
+
+* **deps:** bump actions/cache from 3.2.5 to 3.2.6 ([#163](https://github.com/felix-kaestner/eslint-config/issues/163)) ([8ad6e6b](https://github.com/felix-kaestner/eslint-config/commit/8ad6e6b81ffcc092556dae409ab1b7ed0dff78c0))
+* **deps:** bump actions/cache from 3.2.6 to 3.3.0 ([#171](https://github.com/felix-kaestner/eslint-config/issues/171)) ([faffcec](https://github.com/felix-kaestner/eslint-config/commit/faffcec4678f0cebcbab7e687913d60a6583b319))
+* **deps:** bump actions/cache from 3.3.0 to 3.3.1 ([#176](https://github.com/felix-kaestner/eslint-config/issues/176)) ([6c3be37](https://github.com/felix-kaestner/eslint-config/commit/6c3be3780b05e7f34f963db3a58506c082097dab))
+* **deps:** bump eslint-config-prettier from 8.6.0 to 8.7.0 ([#169](https://github.com/felix-kaestner/eslint-config/issues/169)) ([8f50f21](https://github.com/felix-kaestner/eslint-config/commit/8f50f21f911f73b9dc20267ba11581747373dbd8))
+* **deps:** bump eslint-config-prettier from 8.7.0 to 8.8.0 ([#179](https://github.com/felix-kaestner/eslint-config/issues/179)) ([65d6f22](https://github.com/felix-kaestner/eslint-config/commit/65d6f22f8a4dfe0f2e1c00b92ea22be35f2e940d))
+
 # [2.0.0](https://github.com/felix-kaestner/eslint-config/compare/v1.0.3...v2.0.0) (2023-02-25)
 
 

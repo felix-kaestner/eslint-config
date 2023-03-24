@@ -1,6 +1,6 @@
 {
   "name": "@felix-kaestner/eslint-config",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Opinionated eslint preset with support for TypeScript",
   "files": [
     "index.js"
