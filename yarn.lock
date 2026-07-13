@@ -1318,13 +1318,6 @@ brace-expansion@^2.0.1:
   dependencies:
     balanced-match "^1.0.0"
 
-brace-expansion@^5.0.2:
-  version "5.0.2"
-  resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-5.0.2.tgz#b6c16d0791087af6c2bc463f52a8142046c06b6f"
-  integrity sha512-Pdk8c9poy+YhOgVWw1JNN22/HcivgKWwpxKq04M/jTmHyCZn12WPJebZxdjSa5TmBqISrUSgNYU3eRORljfCCw==
-  dependencies:
-    balanced-match "^4.0.2"
-
 brace-expansion@^5.0.5:
   version "5.0.7"
   resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-5.0.7.tgz#1b0e46965b479dad65af737b4a02790a05498337"
@@ -1820,10 +1813,10 @@ eslint-visitor-keys@^5.0.0, eslint-visitor-keys@^5.0.1:
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-5.0.1.tgz#9e3c9489697824d2d4ce3a8ad12628f91e9f59be"
   integrity sha512-tD40eHxA35h0PEIZNeIjkHoDR4YjjJp34biM0mDvplBe//mB+IHCqHDGV7pxF+7MklTvighcCPPZC7ynWyjdTA==
 
-eslint@^10.6.0:
-  version "10.6.0"
-  resolved "https://registry.yarnpkg.com/eslint/-/eslint-10.6.0.tgz#e1b4059c582be950c7088c9b55f984738b243c27"
-  integrity sha512-6lVbcqSodALYo+4ELD0heG6lFiFxnLMuLkiMi2qV8LMp54N8tE8FT1GMH+ev4Ti00nFjNze2+Su6DsV5OQW3Dg==
+eslint@^10.7.0:
+  version "10.7.0"
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-10.7.0.tgz#cd3b8022f3b1e3b183760d90dfc58e9d3644106b"
+  integrity sha512-GVTD7s1vdIl6UYvAfriOPeY1Df8LIZjfofLvHwde+erDHGGuHyuM6xoxRxmHiebhYuD2p1vN4wWh0XzPARSGDQ==
   dependencies:
     "@eslint-community/eslint-utils" "^4.8.0"
     "@eslint-community/regexpp" "^4.12.2"
@@ -3026,14 +3019,7 @@ mimic-function@^5.0.0:
   resolved "https://registry.yarnpkg.com/mimic-function/-/mimic-function-5.0.1.tgz#acbe2b3349f99b9deaca7fb70e48b83e94e67076"
   integrity sha512-VP79XUPxV2CigYP3jWwAUFSku2aKqBH7uTAapFWCBqutsbmDo96KY5o8uh6U+/YSIn5OxJnXp73beVkpqMIGhA==
 
-minimatch@^10.0.3, minimatch@^10.2.2, minimatch@^10.2.4:
-  version "10.2.4"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-10.2.4.tgz#465b3accbd0218b8281f5301e27cedc697f96fde"
-  integrity sha512-oRjTw/97aTBN0RHbYCdtF1MQfvusSIBQM0IZEgzl6426+8jSC0nF1a/GmnVLpfB9yyr6g6FTqWqiZVbxrtaCIg==
-  dependencies:
-    brace-expansion "^5.0.2"
-
-minimatch@^10.1.1:
+minimatch@^10.0.3, minimatch@^10.1.1, minimatch@^10.2.2, minimatch@^10.2.4:
   version "10.2.5"
   resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-10.2.5.tgz#bd48687a0be38ed2961399105600f832095861d1"
   integrity sha512-MULkVLfKGYDFYejP07QOurDLLQpcjk7Fw+7jXS2R2czRQzR56yHRveU5NDJEOviH+hETZKSkIk5c+T23GjFUMg==
